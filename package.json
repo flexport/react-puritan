@@ -1,0 +1,9 @@
+{
+  "name": "react-puritan",
+  "version": "0.0.1",
+  "description": "Coming soon",
+  "main": "src/index.js",
+  "repository": "git@github.com:flexport/react-puritan.git",
+  "author": "Dounan Shi",
+  "license": "BSD-3-Clause"
+}
